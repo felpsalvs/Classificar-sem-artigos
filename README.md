@@ -5,7 +5,7 @@
 ### 🔖 Sobre
 Foi usado replace(), um método para procurar objetos, e o sort() para classifar eles. São dois métodos que trabalham em conjunto, pela facilidade de organizar um array.
 <br/>
-Teste aqui : <br/>
+Teste aqui: https://classificar-sem-artigos-3bdd4rbej-felpsalvs.vercel.app/ <br/>
 17/30 <br/>
 https://JavaScript30.com 
 
